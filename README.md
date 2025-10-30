@@ -1,3 +1,9 @@
+---
+title: "Hello world"
+author: "Martin Prtenjača"
+date: "30.10.2025."
+---
+
 # Hello world
 Moj prvi github repozitorij.
 
