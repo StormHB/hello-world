@@ -12,3 +12,5 @@ Pogledaj [Licencu](LICENSE).
 
 ### Osnove Git-a i GitHub-a
 [Ovdje](https://merlin.srce.hr) možeze saznati više o Git tehnologiji.
+
+[Stranica ovog projekta](https://stormhb.github.io/hello-world/)
